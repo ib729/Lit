@@ -1,7 +1,5 @@
 # Lit
 
-Code.org Decision Maker App
-
 This program is written in Python and it recommends books based on your interest and age. 
 
 ## License
